@@ -3590,11 +3590,14 @@
   "item.zexpendmod.zombie_shitr_variant_spawn_egg": "Shitr Variant Zombie Spawn Egg",
   "item.zexpendmod.zombie_smile_spawn_egg": "Smile Zombie Spawn Egg",
   "itemGroup.zexpendmod.zombies": "Zexpend: Zombies",
+  "zexpendmod.configuration.burnZombiesInDaylight": "Burn In Daylight",
+  "zexpendmod.configuration.drownedSpawnChancePercent": "Drowned Spawn Chance %",
+  "zexpendmod.configuration.generalSpawnChancePercent": "General Spawn Chance %",
+  "zexpendmod.configuration.huskSpawnChancePercent": "Husk Spawn Chance %",
   "zexpendmod.configuration.items": "Item List",
-  "zexpendmod.configuration.logDirtBlock": "Log Dirt Block",
-  "zexpendmod.configuration.magicNumber": "Magic Number",
-  "zexpendmod.configuration.magicNumberIntroduction": "Magic Number Text",
   "zexpendmod.configuration.section.zexpendmod.common.toml": "Zexpend Mod Configs",
   "zexpendmod.configuration.section.zexpendmod.common.toml.title": "Zexpend Mod Configs",
-  "zexpendmod.configuration.title": "Zexpend Mod Configs"
+  "zexpendmod.configuration.spawnPackSize": "Spawn Pack Size",
+  "zexpendmod.configuration.title": "Zexpend Mod Configs",
+  "zexpendmod.configuration.zombieSpawnChancePercent": "Zombie Spawn Chance %"
 }

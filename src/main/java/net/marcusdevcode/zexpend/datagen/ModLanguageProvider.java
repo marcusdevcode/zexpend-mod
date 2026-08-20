@@ -19,9 +19,12 @@ public class ModLanguageProvider extends LanguageProvider {
         add("zexpendmod.configuration.section.zexpendmod.common.toml", "Zexpend Mod Configs");
         add("zexpendmod.configuration.section.zexpendmod.common.toml.title", "Zexpend Mod Configs");
         add("zexpendmod.configuration.items", "Item List");
-        add("zexpendmod.configuration.logDirtBlock", "Log Dirt Block");
-        add("zexpendmod.configuration.magicNumberIntroduction", "Magic Number Text");
-        add("zexpendmod.configuration.magicNumber", "Magic Number");
+        add("zexpendmod.configuration.generalSpawnChancePercent", "General Spawn Chance %");
+        add("zexpendmod.configuration.zombieSpawnChancePercent", "Zombie Spawn Chance %");
+        add("zexpendmod.configuration.huskSpawnChancePercent", "Husk Spawn Chance %");
+        add("zexpendmod.configuration.drownedSpawnChancePercent", "Drowned Spawn Chance %");
+        add("zexpendmod.configuration.spawnPackSize", "Spawn Pack Size");
+        add("zexpendmod.configuration.burnZombiesInDaylight", "Burn In Daylight");
         add("itemGroup.zexpendmod.zombies", "Zexpend: Zombies");
 
         for (ZombieVariants variant : ZombieVariants.values()) {

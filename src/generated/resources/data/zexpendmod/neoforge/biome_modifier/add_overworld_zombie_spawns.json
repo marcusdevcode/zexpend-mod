@@ -6,175 +6,175 @@
       "type": "zexpendmod:disco_zombie",
       "maxCount": 2,
       "minCount": 1,
-      "weight": 8
+      "weight": 15
     },
     {
       "type": "zexpendmod:zombie_alchemist",
       "maxCount": 2,
       "minCount": 1,
-      "weight": 8
+      "weight": 15
     },
     {
       "type": "zexpendmod:zombie_chef",
       "maxCount": 2,
       "minCount": 1,
-      "weight": 8
+      "weight": 15
     },
     {
       "type": "zexpendmod:zombie_creeper",
       "maxCount": 2,
       "minCount": 1,
-      "weight": 8
+      "weight": 15
     },
     {
       "type": "zexpendmod:zombie_cyborg",
       "maxCount": 2,
       "minCount": 1,
-      "weight": 8
+      "weight": 15
     },
     {
       "type": "zexpendmod:zombie_dwarf",
       "maxCount": 2,
       "minCount": 1,
-      "weight": 8
+      "weight": 15
     },
     {
       "type": "zexpendmod:zombie_herobrine",
       "maxCount": 2,
       "minCount": 1,
-      "weight": 3
+      "weight": 6
     },
     {
       "type": "zexpendmod:zombie_king",
       "maxCount": 2,
       "minCount": 1,
-      "weight": 2
+      "weight": 4
     },
     {
       "type": "zexpendmod:zombie_knight",
       "maxCount": 2,
       "minCount": 1,
-      "weight": 8
+      "weight": 15
     },
     {
       "type": "zexpendmod:zombie_miner",
       "maxCount": 2,
       "minCount": 1,
-      "weight": 8
+      "weight": 15
     },
     {
       "type": "zexpendmod:zombie_notch",
       "maxCount": 2,
       "minCount": 1,
-      "weight": 2
+      "weight": 4
     },
     {
       "type": "zexpendmod:zombie_pa",
       "maxCount": 2,
       "minCount": 1,
-      "weight": 8
+      "weight": 15
     },
     {
       "type": "zexpendmod:zombie_pirate",
       "maxCount": 2,
       "minCount": 1,
-      "weight": 8
+      "weight": 15
     },
     {
       "type": "zexpendmod:alex_zombie",
       "maxCount": 2,
       "minCount": 1,
-      "weight": 8
+      "weight": 15
     },
     {
       "type": "zexpendmod:cool_zombie_girl",
       "maxCount": 2,
       "minCount": 1,
-      "weight": 8
+      "weight": 15
     },
     {
       "type": "zexpendmod:ds_zombie",
       "maxCount": 2,
       "minCount": 1,
-      "weight": 8
+      "weight": 15
     },
     {
       "type": "zexpendmod:goblin_zombie",
       "maxCount": 2,
       "minCount": 1,
-      "weight": 8
+      "weight": 15
     },
     {
       "type": "zexpendmod:half_life_zombie",
       "maxCount": 2,
       "minCount": 1,
-      "weight": 8
+      "weight": 15
     },
     {
       "type": "zexpendmod:herobrines_mom",
       "maxCount": 2,
       "minCount": 1,
-      "weight": 3
+      "weight": 6
     },
     {
       "type": "zexpendmod:pvz_zombie",
       "maxCount": 2,
       "minCount": 1,
-      "weight": 2
+      "weight": 4
     },
     {
       "type": "zexpendmod:herobrine_minion",
       "maxCount": 2,
       "minCount": 1,
-      "weight": 3
+      "weight": 6
     },
     {
       "type": "zexpendmod:nightmare_fredbear",
       "maxCount": 2,
       "minCount": 1,
-      "weight": 2
+      "weight": 4
     },
     {
       "type": "zexpendmod:springtrap_zombie",
       "maxCount": 2,
       "minCount": 1,
-      "weight": 8
+      "weight": 15
     },
     {
       "type": "zexpendmod:winter_zombie",
       "maxCount": 2,
       "minCount": 1,
-      "weight": 8
+      "weight": 15
     },
     {
       "type": "zexpendmod:zombie_apocalypse",
       "maxCount": 2,
       "minCount": 1,
-      "weight": 2
+      "weight": 4
     },
     {
       "type": "zexpendmod:zombie_gore",
       "maxCount": 2,
       "minCount": 1,
-      "weight": 8
+      "weight": 15
     },
     {
       "type": "zexpendmod:zombie_smile",
       "maxCount": 2,
       "minCount": 1,
-      "weight": 8
+      "weight": 15
     },
     {
       "type": "zexpendmod:zombie_drawner_woman",
       "maxCount": 2,
       "minCount": 1,
-      "weight": 8
+      "weight": 15
     },
     {
       "type": "zexpendmod:zombie_shitr_variant",
       "maxCount": 2,
       "minCount": 1,
-      "weight": 8
+      "weight": 15
     },
     {
       "type": "zexpendmod:zombie_1",

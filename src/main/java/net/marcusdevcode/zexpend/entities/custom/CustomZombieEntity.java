@@ -1,5 +1,7 @@
 package net.marcusdevcode.zexpend.entities.custom;
 
+import net.marcusdevcode.zexpend.entities.DaylightBurnHelper;
+import net.marcusdevcode.zexpend.entities.PackSpawnHelper;
 import net.marcusdevcode.zexpend.entities.ZombieAbility;
 import net.marcusdevcode.zexpend.entities.ZombieVariants;
 import net.marcusdevcode.zexpend.entities.goals.BreakBlockGoal;
@@ -59,6 +61,7 @@ public class CustomZombieEntity extends Zombie implements RangedAttackMob {
     @Override
     public void aiStep() {
         super.aiStep();
+        DaylightBurnHelper.tick(this);
         if (this.level() instanceof ServerLevel && MUSIC_LOVERS.contains(variant)
                 && this.onGround() && this.getDeltaMovement().horizontalDistanceSqr() > 1.0E-4D) {
             if (musicCooldown-- <= 0) {
@@ -144,6 +147,7 @@ public class CustomZombieEntity extends Zombie implements RangedAttackMob {
             default -> {
             }
         }
+        PackSpawnHelper.spawnCompanions(this, level, spawnReason, PackSpawnHelper.Category.ZOMBIE);
         return data;
     }
 
