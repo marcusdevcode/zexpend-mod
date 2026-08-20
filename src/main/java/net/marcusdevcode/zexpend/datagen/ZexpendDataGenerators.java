@@ -16,6 +16,7 @@ public class ZexpendDataGenerators {
         CompletableFuture<HolderLookup.Provider> lookupProvider = event.getLookupProvider();
 
         generator.addProvider(true, new ModLootTableProvider(output, lookupProvider));
+        generator.addProvider(true, new ModEntityTypeTagsProvider(output, lookupProvider));
 
         RegistrySetBuilder biomeModifierBuilder = new RegistrySetBuilder()
                 .add(NeoForgeRegistries.Keys.BIOME_MODIFIERS, ModBiomeModifiers::bootstrap);
