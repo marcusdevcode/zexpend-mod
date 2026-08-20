@@ -19,6 +19,8 @@ import net.minecraft.world.entity.ai.attributes.Attributes;
 import net.minecraft.world.entity.ai.goal.RangedAttackGoal;
 import net.minecraft.world.entity.monster.RangedAttackMob;
 import net.minecraft.core.particles.ParticleTypes;
+import net.minecraft.sounds.SoundEvents;
+import net.minecraft.sounds.SoundSource;
 import net.minecraft.world.entity.monster.zombie.Zombie;
 import net.minecraft.world.entity.projectile.hurtingprojectile.SmallFireball;
 import net.minecraft.world.entity.projectile.throwableitemprojectile.ThrownSplashPotion;
@@ -32,13 +34,39 @@ import net.minecraft.world.level.ServerLevelAccessor;
 import net.minecraft.world.phys.Vec3;
 import org.jetbrains.annotations.Nullable;
 
+import java.util.EnumSet;
+import java.util.List;
+import java.util.Set;
+
 public class CustomZombieEntity extends Zombie implements RangedAttackMob {
+    private static final Set<ZombieVariants> MUSIC_LOVERS = EnumSet.of(ZombieVariants.DISCO, ZombieVariants.COOL_GIRL);
+    private static final List<net.minecraft.core.Holder<net.minecraft.sounds.SoundEvent>> RANDOM_SONGS = List.of(
+            SoundEvents.MUSIC_DISC_CAT, SoundEvents.MUSIC_DISC_BLOCKS, SoundEvents.MUSIC_DISC_CHIRP,
+            SoundEvents.MUSIC_DISC_MELLOHI, SoundEvents.MUSIC_DISC_STAL, SoundEvents.MUSIC_DISC_STRAD,
+            SoundEvents.MUSIC_DISC_WARD, SoundEvents.MUSIC_DISC_MALL, SoundEvents.MUSIC_DISC_FAR,
+            SoundEvents.MUSIC_DISC_PIGSTEP, SoundEvents.MUSIC_DISC_OTHERSIDE);
+    private static final int MUSIC_INTERVAL_TICKS = 20 * 15;
+
     private final ZombieVariants variant;
+    private int musicCooldown;
 
     public CustomZombieEntity(EntityType<? extends Zombie> type, Level level, ZombieVariants variant) {
         super(type, level);
         this.variant = variant;
         addAbilityGoals();
+    }
+
+    @Override
+    public void aiStep() {
+        super.aiStep();
+        if (this.level() instanceof ServerLevel && MUSIC_LOVERS.contains(variant)
+                && this.onGround() && this.getDeltaMovement().horizontalDistanceSqr() > 1.0E-4D) {
+            if (musicCooldown-- <= 0) {
+                var song = RANDOM_SONGS.get(this.random.nextInt(RANDOM_SONGS.size()));
+                this.level().playSound(null, this.blockPosition(), song.value(), SoundSource.HOSTILE, 1.0F, 1.0F);
+                musicCooldown = MUSIC_INTERVAL_TICKS;
+            }
+        }
     }
 
     public ZombieVariants getVariant() {

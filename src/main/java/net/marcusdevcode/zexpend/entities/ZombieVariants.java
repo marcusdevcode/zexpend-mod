@@ -18,7 +18,24 @@ public enum ZombieVariants {
     MINER("zombie_miner", "zombie_miner.png", ZombieAbility.BREAK_BLOCKS, 1.0F, 1.0F, 20.0D, 3.0D),
     NOTCH("zombie_notch", "zombie_notch.png", ZombieAbility.BOSS_STATS, 1.15F, 1.0F, 60.0D, 6.0D),
     PA("zombie_pa", "zombie_pa.png", ZombieAbility.NONE, 1.0F, 1.0F, 20.0D, 3.0D),
-    PIRATE("zombie_pirate", "zombie_pirate.png", ZombieAbility.DUAL_WIELD, 1.0F, 1.0F, 20.0D, 3.5D);
+    PIRATE("zombie_pirate", "zombie_pirate.png", ZombieAbility.DUAL_WIELD, 1.0F, 1.0F, 20.0D, 3.5D),
+
+    ALEX("alex_zombie", "alex-zombie.png", ZombieAbility.DUAL_WIELD, 1.0F, 1.0F, 20.0D, 3.5D),
+    COOL_GIRL("cool_zombie_girl", "cool-zombie-girl.png", ZombieAbility.DISCO_PULSE, 1.0F, 1.0F, 20.0D, 3.0D),
+    DS("ds_zombie", "ds.png", ZombieAbility.RANGED_LASER, 1.0F, 1.0F, 24.0D, 3.0D),
+    GOBLIN("goblin_zombie", "goblin.png", ZombieAbility.BREAK_BLOCKS, 1.0F, 1.0F, 20.0D, 3.0D),
+    HALF_LIFE("half_life_zombie", "half-life-2-zombie.png", ZombieAbility.EXPLODE_ON_DEATH, 1.0F, 1.0F, 20.0D, 3.0D),
+    HEROBRINES_MOM("herobrines_mom", "herobrines-mom.png", ZombieAbility.TELEPORT, 1.0F, 1.0F, 26.0D, 4.0D),
+    PVZ("pvz_zombie", "minecraft-pvz-zombie.png", ZombieAbility.SUMMON_MINIONS, 1.0F, 1.0F, 40.0D, 5.0D),
+    HEROBRINE_MINION("herobrine_minion", "minion-of-herobrine.png", ZombieAbility.TELEPORT, 1.0F, 1.0F, 26.0D, 4.0D),
+    FREDBEAR("nightmare_fredbear", "nightmare-fredbear.png", ZombieAbility.BOSS_STATS, 1.15F, 1.0F, 60.0D, 6.0D),
+    SPRINGTRAP("springtrap_zombie", "springtrap.png", ZombieAbility.HEAVY_ARMOR, 1.0F, 1.0F, 30.0D, 4.0D),
+    WINTER("winter_zombie", "winter-mobs.png", ZombieAbility.NONE, 1.0F, 1.0F, 20.0D, 3.0D),
+    APOCALYPSE("zombie_apocalypse", "zombie-apocalypse.png", ZombieAbility.SUMMON_MINIONS, 1.0F, 1.0F, 40.0D, 5.0D),
+    GORE("zombie_gore", "zombie-gore-version.png", ZombieAbility.EXPLODE_ON_DEATH, 1.0F, 1.0F, 20.0D, 3.0D),
+    SMILE("zombie_smile", "zombie-smile.png", ZombieAbility.NONE, 1.0F, 1.0F, 20.0D, 3.0D),
+    DRAWNER_WOMAN("zombie_drawner_woman", "zombie_drawner_woman.png", ZombieAbility.THROW_POTION, 1.0F, 1.0F, 20.0D, 3.0D),
+    SHITR("zombie_shitr_variant", "zombie_shitr.png", ZombieAbility.NONE, 1.0F, 1.0F, 20.0D, 3.0D);
 
     private final String id;
     private final String textureFile;

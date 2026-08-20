@@ -47,8 +47,8 @@ public class ModBiomeModifiers {
 
     private static int spawnWeight(ZombieVariants variant) {
         return switch (variant) {
-            case NOTCH, KING -> 2;
-            case HEROBRINE -> 3;
+            case NOTCH, KING, FREDBEAR, PVZ, APOCALYPSE -> 2;
+            case HEROBRINE, HEROBRINES_MOM, HEROBRINE_MINION -> 3;
             default -> 8;
         };
     }
