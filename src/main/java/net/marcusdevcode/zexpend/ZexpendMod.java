@@ -5,10 +5,10 @@ import org.slf4j.Logger;
 import com.mojang.logging.LogUtils;
 
 import net.marcusdevcode.zexpend.datagen.ZexpendDataGenerators;
+import net.marcusdevcode.zexpend.entities.ModBulkEntities;
 import net.marcusdevcode.zexpend.entities.ModEntities;
 import net.marcusdevcode.zexpend.item.ModItems;
 import net.minecraft.core.registries.BuiltInRegistries;
-import net.minecraft.world.item.CreativeModeTabs;
 import net.minecraft.world.level.block.Blocks;
 import net.neoforged.bus.api.IEventBus;
 import net.neoforged.bus.api.SubscribeEvent;
@@ -17,7 +17,6 @@ import net.neoforged.fml.config.ModConfig;
 import net.neoforged.fml.ModContainer;
 import net.neoforged.fml.event.lifecycle.FMLCommonSetupEvent;
 import net.neoforged.neoforge.common.NeoForge;
-import net.neoforged.neoforge.event.BuildCreativeModeTabContentsEvent;
 import net.neoforged.neoforge.event.server.ServerStartingEvent;
 
 // The value here should match an entry in the META-INF/neoforge.mods.toml file
@@ -60,7 +59,9 @@ public class ZexpendMod {
 
         // Zombie types: entity types, spawn eggs, and datagen (loot/lang/biome spawns)
         ModEntities.ENTITY_TYPES.register(modEventBus);
+        ModBulkEntities.ENTITY_TYPES.register(modEventBus);
         ModItems.ITEMS.register(modEventBus);
+        ModItems.CREATIVE_MODE_TABS.register(modEventBus);
         modEventBus.addListener(ZexpendDataGenerators::onGatherDataServer);
         modEventBus.addListener(ZexpendDataGenerators::onGatherDataClient);
 
@@ -68,9 +69,6 @@ public class ZexpendMod {
         // Note that this is necessary if and only if we want *this* class (ZexpendMod) to respond directly to events.
         // Do not add this line if there are no @SubscribeEvent-annotated functions in this class, like onServerStarting() below.
         NeoForge.EVENT_BUS.register(this);
-
-        // Register the item to a creative tab
-        modEventBus.addListener(this::addCreative);
 
         // Register our mod's ModConfigSpec so that FML can create and load the config file for us
         modContainer.registerConfig(ModConfig.Type.COMMON, Config.SPEC);
@@ -87,13 +85,6 @@ public class ZexpendMod {
         LOGGER.info("{}{}", Config.MAGIC_NUMBER_INTRODUCTION.get(), Config.MAGIC_NUMBER.getAsInt());
 
         Config.ITEM_STRINGS.get().forEach((item) -> LOGGER.info("ITEM >> {}", item));
-    }
-
-    // Add the example block item to the building blocks tab
-    private void addCreative(BuildCreativeModeTabContentsEvent event) {
-        if (event.getTabKey() == CreativeModeTabs.SPAWN_EGGS) {
-            ModItems.allSpawnEggs().values().forEach(egg -> event.accept(egg.get()));
-        }
     }
 
     // You can use SubscribeEvent and let the Event Bus discover methods to call

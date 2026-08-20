@@ -1,6 +1,7 @@
 package net.marcusdevcode.zexpend.datagen;
 
 import net.marcusdevcode.zexpend.ZexpendMod;
+import net.marcusdevcode.zexpend.entities.ModBulkEntities;
 import net.marcusdevcode.zexpend.entities.ModEntities;
 import net.marcusdevcode.zexpend.entities.ZombieVariants;
 import net.marcusdevcode.zexpend.item.ModItems;
@@ -21,11 +22,27 @@ public class ModLanguageProvider extends LanguageProvider {
         add("zexpendmod.configuration.logDirtBlock", "Log Dirt Block");
         add("zexpendmod.configuration.magicNumberIntroduction", "Magic Number Text");
         add("zexpendmod.configuration.magicNumber", "Magic Number");
+        add("itemGroup.zexpendmod.zombies", "Zexpend: Zombies");
 
         for (ZombieVariants variant : ZombieVariants.values()) {
             String displayName = toDisplayName(variant);
             addEntityType(ModEntities.all().get(variant), displayName);
             add(ModItems.spawnEgg(variant).get(), displayName + " Spawn Egg");
+        }
+        for (int n : ModBulkEntities.allZombies().keySet()) {
+            String name = "Zombie #" + n;
+            addEntityType(ModBulkEntities.allZombies().get(n), name);
+            add(ModItems.allBulkZombieEggs().get(n).get(), name + " Spawn Egg");
+        }
+        for (int n : ModBulkEntities.allHusks().keySet()) {
+            String name = "Husk #" + n;
+            addEntityType(ModBulkEntities.allHusks().get(n), name);
+            add(ModItems.allBulkHuskEggs().get(n).get(), name + " Spawn Egg");
+        }
+        for (int n : ModBulkEntities.allDrowned().keySet()) {
+            String name = "Drowned #" + n;
+            addEntityType(ModBulkEntities.allDrowned().get(n), name);
+            add(ModItems.allBulkDrownedEggs().get(n).get(), name + " Spawn Egg");
         }
     }
 

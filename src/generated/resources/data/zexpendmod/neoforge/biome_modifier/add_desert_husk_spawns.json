@@ -1,0 +1,606 @@
+{
+  "type": "neoforge:add_spawns",
+  "biomes": "#c:is_desert",
+  "spawners": [
+    {
+      "type": "zexpendmod:husk_1",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:husk_2",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:husk_3",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:husk_4",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:husk_5",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:husk_6",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:husk_7",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:husk_8",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:husk_9",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:husk_10",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:husk_11",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:husk_12",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:husk_13",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:husk_14",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:husk_15",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:husk_16",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:husk_17",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:husk_18",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:husk_19",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:husk_20",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:husk_21",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:husk_22",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:husk_23",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:husk_24",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:husk_25",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:husk_26",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:husk_27",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:husk_28",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:husk_29",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:husk_30",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:husk_31",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:husk_32",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:husk_33",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:husk_34",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:husk_35",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:husk_36",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:husk_37",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:husk_38",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:husk_39",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:husk_40",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:husk_41",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:husk_42",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:husk_43",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:husk_44",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:husk_45",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:husk_46",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:husk_47",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:husk_48",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:husk_49",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:husk_50",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:husk_51",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:husk_52",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:husk_53",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:husk_54",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:husk_55",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:husk_56",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:husk_57",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:husk_58",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:husk_59",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:husk_60",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:husk_61",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:husk_62",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:husk_63",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:husk_64",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:husk_65",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:husk_66",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:husk_67",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:husk_68",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:husk_69",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:husk_70",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:husk_71",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:husk_72",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:husk_73",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:husk_74",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:husk_75",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:husk_76",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:husk_77",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:husk_78",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:husk_79",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:husk_80",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:husk_81",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:husk_82",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:husk_83",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:husk_84",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:husk_85",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:husk_86",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:husk_87",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:husk_88",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:husk_89",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:husk_90",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:husk_91",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:husk_92",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:husk_93",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:husk_94",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:husk_95",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:husk_96",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:husk_97",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:husk_98",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:husk_99",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:husk_100",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    }
+  ]
+}

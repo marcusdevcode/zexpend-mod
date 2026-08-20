@@ -175,6 +175,9810 @@
       "maxCount": 2,
       "minCount": 1,
       "weight": 8
+    },
+    {
+      "type": "zexpendmod:zombie_1",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_2",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_3",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_4",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_5",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_6",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_7",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_8",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_9",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_10",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_11",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_12",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_13",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_14",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_15",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_16",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_17",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_18",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_19",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_20",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_21",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_22",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_23",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_24",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_25",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_26",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_27",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_28",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_29",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_30",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_31",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_32",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_33",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_34",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_35",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_36",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_37",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_38",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_39",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_40",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_41",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_42",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_43",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_44",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_45",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_46",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_47",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_48",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_49",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_50",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_51",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_52",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_53",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_54",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_55",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_56",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_57",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_58",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_59",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_60",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_61",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_62",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_63",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_64",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_65",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_66",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_67",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_68",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_69",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_70",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_71",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_72",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_73",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_74",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_75",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_76",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_77",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_78",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_79",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_80",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_81",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_82",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_83",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_84",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_85",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_86",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_87",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_88",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_89",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_90",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_91",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_92",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_93",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_94",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_95",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_96",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_97",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_98",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_99",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_100",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_101",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_102",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_103",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_104",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_105",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_106",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_107",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_108",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_109",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_110",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_111",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_112",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_113",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_114",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_115",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_116",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_117",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_118",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_119",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_120",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_121",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_122",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_123",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_124",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_125",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_126",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_127",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_128",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_129",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_130",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_131",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_132",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_133",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_134",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_135",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_136",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_137",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_138",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_139",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_140",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_141",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_142",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_143",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_144",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_145",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_146",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_147",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_148",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_149",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_150",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_151",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_152",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_153",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_154",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_155",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_156",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_157",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_158",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_159",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_160",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_161",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_162",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_163",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_164",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_165",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_166",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_167",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_168",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_169",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_170",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_171",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_172",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_173",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_174",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_175",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_176",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_177",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_178",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_179",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_180",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_181",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_182",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_183",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_184",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_185",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_186",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_187",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_188",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_189",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_190",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_191",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_192",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_193",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_194",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_195",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_196",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_197",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_198",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_199",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_200",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_201",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_202",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_203",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_204",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_205",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_206",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_207",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_208",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_209",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_210",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_211",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_212",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_213",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_214",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_215",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_216",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_217",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_218",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_219",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_220",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_221",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_222",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_223",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_224",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_225",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_226",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_227",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_228",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_229",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_230",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_231",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_232",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_233",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_234",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_235",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_236",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_237",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_238",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_239",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_240",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_241",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_242",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_243",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_244",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_245",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_246",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_247",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_248",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_249",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_250",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_251",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_252",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_253",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_254",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_255",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_256",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_257",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_258",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_259",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_260",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_261",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_262",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_263",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_264",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_265",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_266",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_267",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_268",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_269",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_270",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_271",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_272",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_273",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_274",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_275",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_276",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_277",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_278",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_279",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_280",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_281",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_282",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_283",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_284",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_285",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_286",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_287",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_288",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_289",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_290",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_291",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_292",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_293",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_294",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_295",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_296",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_297",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_298",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_299",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_300",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_301",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_302",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_303",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_304",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_305",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_306",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_307",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_308",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_309",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_310",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_311",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_312",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_313",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_314",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_315",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_316",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_317",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_318",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_319",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_320",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_321",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_322",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_323",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_324",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_325",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_326",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_327",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_328",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_329",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_330",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_331",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_332",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_333",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_334",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_335",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_336",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_337",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_338",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_339",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_340",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_341",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_342",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_343",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_344",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_345",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_346",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_347",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_348",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_349",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_350",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_351",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_352",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_353",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_354",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_355",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_356",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_357",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_358",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_359",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_360",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_361",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_362",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_363",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_364",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_365",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_366",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_367",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_368",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_369",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_370",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_371",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_372",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_373",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_374",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_375",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_376",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_377",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_378",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_379",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_380",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_381",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_382",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_383",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_384",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_385",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_386",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_387",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_388",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_389",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_390",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_391",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_392",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_393",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_394",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_395",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_396",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_397",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_398",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_399",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_400",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_401",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_402",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_403",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_404",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_405",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_406",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_407",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_408",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_409",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_410",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_411",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_412",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_413",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_414",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_415",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_416",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_417",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_418",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_419",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_420",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_421",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_422",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_423",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_424",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_425",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_426",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_427",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_428",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_429",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_430",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_431",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_432",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_433",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_434",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_435",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_436",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_437",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_438",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_439",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_440",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_441",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_442",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_443",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_444",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_445",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_446",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_447",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_448",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_449",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_450",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_451",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_452",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_453",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_454",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_455",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_456",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_457",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_458",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_459",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_460",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_461",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_462",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_463",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_464",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_465",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_466",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_467",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_468",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_469",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_470",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_471",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_472",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_473",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_474",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_475",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_476",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_477",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_478",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_479",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_480",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_481",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_482",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_483",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_484",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_485",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_486",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_487",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_488",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_489",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_490",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_491",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_492",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_493",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_494",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_495",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_496",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_497",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_498",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_499",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_500",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_501",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_502",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_503",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_504",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_505",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_506",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_507",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_508",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_509",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_510",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_511",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_512",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_513",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_514",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_515",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_516",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_517",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_518",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_519",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_520",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_521",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_522",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_523",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_524",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_525",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_526",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_527",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_528",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_529",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_530",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_531",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_532",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_533",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_534",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_535",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_536",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_537",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_538",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_539",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_540",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_541",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_542",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_543",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_544",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_545",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_546",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_547",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_548",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_549",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_550",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_551",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_552",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_553",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_554",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_555",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_556",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_557",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_558",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_559",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_560",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_561",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_562",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_563",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_564",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_565",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_566",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_567",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_568",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_569",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_570",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_571",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_572",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_573",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_574",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_575",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_576",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_577",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_578",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_579",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_580",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_581",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_582",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_583",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_584",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_585",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_586",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_587",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_588",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_589",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_590",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_591",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_592",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_593",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_594",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_595",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_596",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_597",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_598",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_599",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_600",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_601",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_602",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_603",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_604",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_605",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_606",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_607",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_608",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_609",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_610",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_611",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_612",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_613",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_614",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_615",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_616",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_617",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_618",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_619",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_620",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_621",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_622",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_623",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_624",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_625",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_626",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_627",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_628",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_629",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_630",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_631",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_632",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_633",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_634",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_635",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_636",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_637",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_638",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_639",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_640",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_641",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_642",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_643",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_644",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_645",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_646",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_647",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_648",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_649",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_650",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_651",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_652",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_653",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_654",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_655",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_656",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_657",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_658",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_659",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_660",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_661",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_662",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_663",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_664",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_665",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_666",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_667",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_668",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_669",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_670",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_671",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_672",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_673",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_674",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_675",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_676",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_677",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_678",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_679",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_680",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_681",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_682",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_683",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_684",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_685",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_686",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_687",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_688",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_689",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_690",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_691",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_692",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_693",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_694",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_695",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_696",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_697",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_698",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_699",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_700",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_701",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_702",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_703",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_704",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_705",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_706",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_707",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_708",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_709",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_710",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_711",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_712",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_713",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_714",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_715",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_716",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_717",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_718",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_719",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_720",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_721",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_722",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_723",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_724",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_725",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_726",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_727",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_728",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_729",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_730",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_731",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_732",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_733",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_734",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_735",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_736",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_737",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_738",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_739",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_740",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_741",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_742",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_743",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_744",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_745",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_746",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_747",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_748",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_749",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_750",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_751",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_752",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_753",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_754",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_755",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_756",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_757",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_758",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_759",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_760",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_761",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_762",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_763",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_764",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_765",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_766",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_767",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_768",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_769",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_770",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_771",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_772",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_773",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_774",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_775",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_776",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_777",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_778",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_779",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_780",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_781",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_782",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_783",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_784",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_785",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_786",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_787",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_788",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_789",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_790",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_791",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_792",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_793",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_794",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_795",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_796",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_797",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_798",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_799",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_800",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_801",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_802",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_803",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_804",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_805",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_806",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_807",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_808",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_809",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_810",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_811",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_812",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_813",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_814",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_815",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_816",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_817",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_818",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_819",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_820",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_821",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_822",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_823",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_824",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_825",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_826",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_827",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_828",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_829",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_830",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_831",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_832",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_833",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_834",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_835",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_836",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_837",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_838",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_839",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_840",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_841",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_842",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_843",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_844",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_845",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_846",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_847",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_848",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_849",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_850",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_851",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_852",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_853",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_854",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_855",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_856",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_857",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_858",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_859",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_860",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_861",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_862",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_863",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_864",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_865",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_866",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_867",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_868",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_869",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_870",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_871",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_872",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_873",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_874",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_875",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_876",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_877",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_878",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_879",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_880",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_881",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_882",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_883",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_884",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_885",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_886",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_887",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_888",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_889",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_890",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_891",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_892",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_893",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_894",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_895",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_896",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_897",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_898",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_899",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_900",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_901",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_902",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_903",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_904",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_905",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_906",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_907",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_908",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_909",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_910",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_911",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_912",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_913",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_914",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_915",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_916",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_917",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_918",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_919",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_920",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_921",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_922",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_923",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_924",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_925",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_926",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_927",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_928",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_929",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_930",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_931",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_932",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_933",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_934",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_935",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_936",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_937",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_938",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_939",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_940",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_941",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_942",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_943",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_944",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_945",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_946",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_947",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_948",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_949",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_950",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_951",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_952",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_953",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_954",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_955",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_956",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_957",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_958",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_959",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_960",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_961",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_962",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_963",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_964",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_965",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_966",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_967",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_968",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_969",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_970",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_971",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_972",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_973",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_974",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_975",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_976",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_977",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_978",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_979",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_980",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_981",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_982",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_983",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_984",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_985",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_986",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_987",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_988",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_989",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_990",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_991",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_992",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_993",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_994",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_995",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_996",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_997",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_998",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_999",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_1000",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_1001",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_1002",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_1003",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_1004",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_1005",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_1006",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_1007",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_1008",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_1009",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_1010",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_1011",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_1012",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_1013",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_1014",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_1015",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_1016",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_1017",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_1018",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_1019",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_1020",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_1021",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_1022",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_1023",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_1024",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_1025",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_1026",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_1027",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_1028",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_1029",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_1030",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_1031",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_1032",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_1033",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_1034",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_1035",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_1036",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_1037",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_1038",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_1039",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_1040",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_1041",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_1042",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_1043",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_1044",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_1045",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_1046",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_1047",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_1048",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_1049",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_1050",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_1051",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_1052",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_1053",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_1054",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_1055",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_1056",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_1057",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_1058",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_1059",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_1060",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_1061",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_1062",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_1063",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_1064",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_1065",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_1066",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_1067",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_1068",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_1069",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_1070",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_1071",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_1072",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_1073",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_1074",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_1075",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_1076",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_1077",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_1078",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_1079",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_1080",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_1081",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_1082",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_1083",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_1084",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_1085",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_1086",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_1087",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_1088",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_1089",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_1090",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_1091",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_1092",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_1093",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_1094",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_1095",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_1096",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_1097",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_1098",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_1099",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_1100",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_1101",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_1102",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_1103",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_1104",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_1105",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_1106",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_1107",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_1108",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_1109",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_1110",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_1111",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_1112",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_1113",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_1114",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_1115",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_1116",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_1117",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_1118",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_1119",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_1120",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_1121",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_1122",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_1123",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_1124",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_1125",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_1126",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_1127",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_1128",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_1129",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_1130",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_1131",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_1132",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_1133",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_1134",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_1135",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_1136",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_1137",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_1138",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_1139",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_1140",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_1141",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_1142",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_1143",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_1144",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_1145",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_1146",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_1147",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_1148",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_1149",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_1150",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_1151",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_1152",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_1153",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_1154",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_1155",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_1156",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_1157",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_1158",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_1159",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_1160",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_1161",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_1162",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_1163",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_1164",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_1165",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_1166",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_1167",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_1168",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_1169",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_1170",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_1171",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_1172",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_1173",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_1174",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_1175",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_1176",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_1177",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_1178",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_1179",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_1180",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_1181",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_1182",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_1183",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_1184",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_1185",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_1186",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_1187",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_1188",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_1189",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_1190",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_1191",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_1192",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_1193",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_1194",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_1195",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_1196",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_1197",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_1198",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_1199",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_1200",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_1201",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_1202",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_1203",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_1204",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_1205",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_1206",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_1207",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_1208",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_1209",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_1210",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_1211",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_1212",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_1213",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_1214",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_1215",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_1216",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_1217",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_1218",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_1219",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_1220",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_1221",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_1222",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_1223",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_1224",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_1225",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_1226",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_1227",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_1228",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_1229",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_1230",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_1231",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_1232",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_1233",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_1234",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_1235",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_1236",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_1237",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_1238",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_1239",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_1240",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_1241",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_1242",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_1243",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_1244",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_1245",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_1246",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_1247",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_1248",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_1249",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_1250",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_1251",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_1252",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_1253",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_1254",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_1255",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_1256",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_1257",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_1258",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_1259",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_1260",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_1261",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_1262",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_1263",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_1264",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_1265",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_1266",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_1267",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_1268",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_1269",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_1270",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_1271",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_1272",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_1273",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_1274",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_1275",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_1276",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_1277",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_1278",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_1279",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_1280",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_1281",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_1282",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_1283",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_1284",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_1285",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_1286",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_1287",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_1288",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_1289",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_1290",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_1291",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_1292",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_1293",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_1294",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_1295",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_1296",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_1297",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_1298",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_1299",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_1300",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_1301",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_1302",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_1303",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_1304",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_1305",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_1306",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_1307",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_1308",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_1309",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_1310",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_1311",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_1312",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_1313",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_1314",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_1315",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_1316",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_1317",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_1318",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_1319",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_1320",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_1321",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_1322",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_1323",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_1324",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_1325",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_1326",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_1327",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_1328",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_1329",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_1330",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_1331",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_1332",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_1333",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_1334",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_1335",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_1336",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_1337",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_1338",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_1339",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_1340",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_1341",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_1342",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_1343",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_1344",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_1345",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_1346",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_1347",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_1348",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_1349",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_1350",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_1351",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_1352",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_1353",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_1354",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_1355",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_1356",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_1357",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_1358",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_1359",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_1360",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_1361",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_1362",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_1363",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_1364",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_1365",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_1366",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_1367",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_1368",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_1369",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_1370",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_1371",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_1372",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_1373",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_1374",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_1375",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_1376",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_1377",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_1378",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_1379",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_1380",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_1381",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_1382",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_1383",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_1384",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_1385",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_1386",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_1387",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_1388",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_1389",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_1390",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_1391",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_1392",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_1393",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_1394",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_1395",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_1396",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_1397",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_1398",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_1399",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_1400",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_1401",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_1402",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_1403",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_1404",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_1405",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_1406",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_1407",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_1408",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_1409",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_1410",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_1411",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_1412",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_1413",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_1414",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_1415",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_1416",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_1417",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_1418",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_1419",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_1420",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_1421",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_1422",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_1423",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_1424",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_1425",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_1426",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_1427",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_1428",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_1429",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_1430",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_1431",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_1432",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_1433",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_1434",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_1435",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_1436",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_1437",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_1438",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_1439",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_1440",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_1441",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_1442",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_1443",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_1444",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_1445",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_1446",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_1447",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_1448",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_1449",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_1450",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_1451",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_1452",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_1453",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_1454",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_1455",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_1456",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_1457",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_1458",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_1459",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_1460",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_1461",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_1462",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_1463",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_1464",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_1465",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_1466",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_1467",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_1468",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_1469",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_1470",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_1471",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_1472",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_1473",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_1474",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_1475",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_1476",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_1477",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_1478",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_1479",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_1480",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_1481",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_1482",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_1483",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_1484",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_1485",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_1486",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_1487",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_1488",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_1489",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_1490",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_1491",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_1492",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_1493",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_1494",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_1495",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_1496",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_1497",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_1498",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_1499",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_1500",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_1501",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_1502",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_1503",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_1504",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_1505",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_1506",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_1507",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_1508",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_1509",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_1510",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_1511",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_1512",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_1513",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_1514",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_1515",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_1516",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_1517",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_1518",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_1519",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_1520",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_1521",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_1522",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_1523",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_1524",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_1525",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_1526",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_1527",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_1528",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_1529",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_1530",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_1531",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_1532",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_1533",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_1534",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_1535",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_1536",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_1537",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_1538",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_1539",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_1540",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_1541",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_1542",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_1543",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_1544",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_1545",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_1546",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_1547",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_1548",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_1549",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_1550",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_1551",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_1552",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_1553",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_1554",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_1555",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_1556",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_1557",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_1558",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_1559",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_1560",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_1561",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_1562",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_1563",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_1564",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_1565",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_1566",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_1567",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_1568",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_1569",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_1570",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_1571",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_1572",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_1573",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_1574",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_1575",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_1576",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_1577",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_1578",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_1579",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_1580",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_1581",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_1582",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_1583",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_1584",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_1585",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_1586",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_1587",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_1588",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_1589",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_1590",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_1591",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_1592",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_1593",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_1594",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_1595",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_1596",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_1597",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_1598",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_1599",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_1600",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_1601",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_1602",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_1603",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_1604",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_1605",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_1606",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_1607",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_1608",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_1609",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_1610",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_1611",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_1612",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_1613",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_1614",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_1615",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_1616",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_1617",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_1618",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_1619",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_1620",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_1621",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_1622",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_1623",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_1624",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_1625",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_1626",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_1627",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_1628",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_1629",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_1630",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_1631",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_1632",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_1633",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
+    },
+    {
+      "type": "zexpendmod:zombie_1634",
+      "maxCount": 2,
+      "minCount": 1,
+      "weight": 1
     }
   ]
 }

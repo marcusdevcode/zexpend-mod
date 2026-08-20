@@ -1,6 +1,10 @@
 package net.marcusdevcode.zexpend;
 
+import net.marcusdevcode.zexpend.client.BulkDrownedRenderer;
+import net.marcusdevcode.zexpend.client.BulkHuskRenderer;
+import net.marcusdevcode.zexpend.client.BulkZombieRenderer;
 import net.marcusdevcode.zexpend.client.CustomZombieRenderer;
+import net.marcusdevcode.zexpend.entities.ModBulkEntities;
 import net.marcusdevcode.zexpend.entities.ModEntities;
 import net.marcusdevcode.zexpend.entities.ZombieVariants;
 import net.minecraft.client.Minecraft;
@@ -37,6 +41,15 @@ public class ExampleModClient {
     static void onRegisterRenderers(EntityRenderersEvent.RegisterRenderers event) {
         for (ZombieVariants variant : ZombieVariants.values()) {
             event.registerEntityRenderer(ModEntities.get(variant), CustomZombieRenderer::new);
+        }
+        for (int n : ModBulkEntities.allZombies().keySet()) {
+            event.registerEntityRenderer(ModBulkEntities.zombie(n), BulkZombieRenderer::new);
+        }
+        for (int n : ModBulkEntities.allHusks().keySet()) {
+            event.registerEntityRenderer(ModBulkEntities.husk(n), BulkHuskRenderer::new);
+        }
+        for (int n : ModBulkEntities.allDrowned().keySet()) {
+            event.registerEntityRenderer(ModBulkEntities.drowned(n), BulkDrownedRenderer::new);
         }
     }
 }
