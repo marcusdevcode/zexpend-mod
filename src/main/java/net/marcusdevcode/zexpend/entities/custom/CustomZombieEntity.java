@@ -122,6 +122,13 @@ public class CustomZombieEntity extends Zombie implements RangedAttackMob {
     }
 
     @Override
+    public boolean canBreatheUnderwater() {
+        // Zombie (our superclass) doesn't override this, unlike Drowned, so a water-themed
+        // variant like DRAWNER_WOMAN would otherwise take suffocation damage and die underwater.
+        return variant == ZombieVariants.DRAWNER_WOMAN || super.canBreatheUnderwater();
+    }
+
+    @Override
     public void die(DamageSource cause) {
         if (variant.getAbility() == ZombieAbility.EXPLODE_ON_DEATH
                 && this.level() instanceof ServerLevel serverLevel
